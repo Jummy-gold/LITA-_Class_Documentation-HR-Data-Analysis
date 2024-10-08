@@ -8,5 +8,12 @@ The primary sourceof Data used here is Data Sales.csv and this is an open source
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
+-- For Data cleaning
+-- For Analysis
+-- For Data Visualization
+
+- SQL Structured Query Language ..For querying Data
+
+- Github for Portfolio Building 
 
 

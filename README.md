@@ -18,21 +18,24 @@ The primary source of Data used here is Incubator Hub HR Data and this is an ope
 - Github for Portfolio Building
 
 - This analysis explore the overall performance of employee in the Incubator Hub HR data, it pay keen attention to the employees educational background, gender and age group as it relates to the rate of attrition.
-DATA SOURCE
+
+
+ ## DATA SOURCE
         
 
   
-    Power BI for building visualization base on the data received
+   
+Power BI for building visualization base on the data received
 
 Data Cleaning and Preparations
 
 In the initial phase of data cleaning and preparation, we performed the following
 
-    Data Loading and Inspection
-    Handling Missing Variables
-    Data cleaning and formatting
-    Creation of calculated columns in Power BI
-    Creation of Measures to help with summary
+ Data Loading and Inspection
+ Handling Missing Variables
+ Data Cleaning and Formatting
+ Creation of calculated columns in power BI
+ Creationof Measuresto help with summary
 
 ### Exploratory Data Analysis
 

@@ -8,8 +8,11 @@ The primary source of Data used here is Incubator Hub HR Data and this is an ope
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
+
 -- For Data cleaning
+
 -- For Analysis
+
 -- For Data Visualization
 
 - SQL Structured Query Language ..For querying Data

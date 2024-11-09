@@ -22,20 +22,18 @@ The primary source of Data used here is Incubator Hub HR Data and this is an ope
 
  ## DATA SOURCE
         
-
-  
    
 Power BI for building visualization base on the data received
 
 Data Cleaning and Preparations
 
-In the initial phase of data cleaning and preparation, we performed the following
+In the initial phase of data cleaning and preparation, we performed the following:
 
- Data Loading and Inspection
- Handling Missing Variables
- Data Cleaning and Formatting
- Creation of calculated columns in power BI
- Creationof Measuresto help with summary
+i.   Data Loading and Inspection
+ii.  Handling Missing Variables
+iii. Data Cleaning and Formatting
+iv.  Creation of calculated columns in power BI
+v.   Creationof Measuresto help with summary
 
 ### Exploratory Data Analysis
 
@@ -45,6 +43,7 @@ The data was adequately explored in Power BI, additional columns were created as
 ### Data Analysis
 
 Here some lines of codes or queries and some of the DAX expressions that were used during analysis
+Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 
 
 Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 
 

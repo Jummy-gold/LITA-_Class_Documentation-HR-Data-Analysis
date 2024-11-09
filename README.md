@@ -33,7 +33,7 @@ i.   Data Loading and Inspection
 ii.  Handling Missing Variables
 iii. Data Cleaning and Formatting
 iv.  Creation of calculated columns in power BI
-v.   Creationof Measuresto help with summary
+v.   Creation of Measures to help with summary
 
 ### Exploratory Data Analysis
 
@@ -45,8 +45,8 @@ The data was adequately explored in Power BI, additional columns were created as
 Here some lines of codes or queries and some of the DAX expressions that were used during analysis
 
 ```Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) ```
-Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 
 
-Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 
+ Conditional columns were added to filter down some data so as to get a better visualization, one of those is the creation of conditional column to convert the Job Satisfaction column to Job Satisfaction Rating using figures 1,2,3,4 to represent each satisfactory level.
 
-Conditional columns were added to filter down some data so as to get a better visualization, one of those is the creation of conditional column to convert the Job Satisfaction column to Job Satisfaction Rating using figures 1,2,3,4 to represent each satisfactory level.
+ ## DATA VISUALIZATIONS
+

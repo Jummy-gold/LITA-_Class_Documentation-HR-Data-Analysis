@@ -43,6 +43,8 @@ The data was adequately explored in Power BI, additional columns were created as
 ### Data Analysis
 
 Here some lines of codes or queries and some of the DAX expressions that were used during analysis
+
+```Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) ```
 Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 
 
 Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count) 

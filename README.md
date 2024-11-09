@@ -50,3 +50,13 @@ Here some lines of codes or queries and some of the DAX expressions that were us
 
  ## DATA VISUALIZATIONS
 
+ 
+![HR data 1](https://github.com/user-attachments/assets/63d3ef18-8b4b-4b4d-97a8-13d6de06e483)
+
+![HR data 2](https://github.com/user-attachments/assets/ae44467d-66d4-4297-9649-9b8234973d95)
+
+![HR data 3](https://github.com/user-attachments/assets/b487e490-c3de-4692-9a43-43314157dce1)
+
+![HR  Data 4](https://github.com/user-attachments/assets/2167f6d3-56f7-4fb2-815a-8a24f7b1850a)
+
+![Hr Data 5](https://github.com/user-attachments/assets/c604248b-cb55-46c2-adb9-caeef876dfcf)

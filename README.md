@@ -79,15 +79,15 @@ Here some lines of codes or queries and some of the DAX expressions that were us
 
 It can be concluded that attrition is higher among male staff in research and development department who are around 37 years of age, this could be due to:
 
--1 These men are probably married and needed more income 
+1 These men are probably married and needed more income 
 
--2 They leave as a result of important discovery during their researches that they feel could help them build their own organisation 
+2 They leave as a result of important discovery during their researches that they feel could help them build their own organisation 
 
--3 If they are exposed to leaving the country during researches, they have probably decided to relocate after exploring other countries. 
+3 If they are exposed to leaving the country during researches, they have probably decided to relocate after exploring other countries. 
 
- 4 Majority of the male staff on attrition had their job rating to be disatisfied or very dissatisfied
+4 Majority of the male staff on attrition had their job rating to be disatisfied or very dissatisfied
 
 ### RECOMENDATION
--The management should look into reviewing the salary scheme after certain period in the company 
--Terms and conditions should be made to screen which employee can embark on researches outside the country. 
--The month of probation for newly employed staff should be closely monitored to ensure satisfactory performance.
+- The management should look into reviewing the salary scheme after certain period in the company 
+- Terms and conditions should be made to screen which employee can embark on researches outside the country. 
+- The month of probation for newly employed staff should be closely monitored to ensure satisfactory performance.

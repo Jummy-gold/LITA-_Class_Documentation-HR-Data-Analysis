@@ -73,7 +73,9 @@ Here some lines of codes or queries and some of the DAX expressions that were us
 - Total number of current employee = 732
 
 -The average age is 37. -The Job satisfactory rating gave an insight to the fact that some of the employee underwent attrition or were releaved of their jobs due to low performance, 46 staff among the 237 staff on attrition had a satifactory rating of Very Dissatisfied, 66 staff a rating of Dissatisfied.
-CONCLUSION
+
+
+##CONCLUSION
 
 It can be concluded that attrition is higher among male staff in research and development department who are around 37 years of age, this could be due to:
 
@@ -86,4 +88,6 @@ It can be concluded that attrition is higher among male staff in research and de
  4 Majority of the male staff on attrition had their job rating to be disatisfied or very dissatisfied
 
 ### RECOMENDATION
--The management should look into reviewing the salary scheme after certain period in the company -Terms and conditions should be made to screen which employee can embark on researches outside the country. -The month of probation for newly employed staff should be closely monitored to ensure satisfactory performance.
+-The management should look into reviewing the salary scheme after certain period in the company 
+-Terms and conditions should be made to screen which employee can embark on researches outside the country. 
+-The month of probation for newly employed staff should be closely monitored to ensure satisfactory performance.

@@ -30,9 +30,13 @@ Data Cleaning and Preparations
 In the initial phase of data cleaning and preparation, we performed the following:
 
 i.   Data Loading and Inspection
+
 ii.  Handling Missing Variables
+
 iii. Data Cleaning and Formatting
+
 iv.  Creation of calculated columns in power BI
+
 v.   Creation of Measures to help with summary
 
 ### Exploratory Data Analysis
